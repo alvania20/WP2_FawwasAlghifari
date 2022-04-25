@@ -15,12 +15,13 @@
                 </th>
             </tr>
             <tr>
-                <td colspan="3"></td>
+                <td colspan="3">
                 <hr>
+                </td>
             </tr>
             <tr>
-                <th>Kode MTK</th>
-                <th>:</th>
+                <td>Kode MTK</td>
+                <td>:</td>
                 <td>
                     <?= $kode; ?>
                 </td>
